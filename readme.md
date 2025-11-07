@@ -8,9 +8,9 @@ A Python script to generate basic quality statistics from a CRAM file using pysa
 ## 🚀 Usage
 
 ```bash
-python Ultima_CRAM_Stat_py [path_to_cram_file]
+python Ultima_CRAM_Stat.py [path_to_cram_file]
 # Example:
-python Ultima_CRAM_Stat_py sample1.cram
+python Ultima_CRAM_Stat.py sample1.cram
 ```
 
 ---

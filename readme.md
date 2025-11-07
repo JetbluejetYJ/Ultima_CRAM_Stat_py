@@ -1,5 +1,5 @@
 
-# 📊 Ultima_CRAM_Stat_py: CRAM File Quality Summary Script with Python.
+# 📊 Ultima_CRAM_Stat_py
 
 A Python script to generate basic quality statistics from a CRAM file using pysam.
 

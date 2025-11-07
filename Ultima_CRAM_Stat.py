@@ -7,7 +7,7 @@ import os
 import pysam
 
 if len(sys.argv) != 2:
-    raise ValueError("Usage: python Ultima_CRAM_Stat_py [path of cram file]")
+    raise ValueError("Usage: python Ultima_CRAM_Stat.py [path of cram file]")
 
 # Set CRAM File path and sample name
 cram_file_path = sys.argv[1]
